@@ -1,0 +1,22 @@
+.section {
+    display: flex;
+    flex-direction: column;
+}
+
+.section ul {
+    padding: 0;
+}
+
+.section li {
+    margin: 10px 0;
+}
+
+.section a {
+    color: #ff6347;
+    text-decoration: none;
+    font-size: 1rem;
+}
+
+.section a:hover {
+    text-decoration: underline;
+}

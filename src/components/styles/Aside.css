@@ -1,0 +1,9 @@
+.aside {
+    border-radius: 8px;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+    background-color: #fafafa;
+    padding: 20px;
+    margin-left: 10px;
+    height: 90vh;
+    overflow: auto;
+}
